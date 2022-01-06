@@ -31,7 +31,7 @@ This is an easy bug to fix, but I'm new to React. In all my experience, I have w
 
 ### How to run it?
 
-To run the application, you must first run the script.
+To run the application, you must first run on the console ```script.sh ```
 
 Then, if everything went okay:
 - The frontend app will be running on your localhost port: **3000**
